@@ -9,9 +9,8 @@
 
 # Experiments
 
-This experiment used SVM as a aclassifier
+This experiment used SVM as a classifier
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| No | Model | Accuracy| Precision | Recall	|	F Score | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1 | MultinomialNB | 83% | 89% | 75% | 81% |   
