@@ -9,7 +9,7 @@
 
 # Experiments
 
-This experiment used SVM as a classifier
+This experiment used Multinomial Naive Bayes as a classifier
 
 | No | Model | Accuracy| Precision | Recall	|	F Score | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
